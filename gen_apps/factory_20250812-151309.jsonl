@@ -1,0 +1,181 @@
+{"ts": 1754979189.94969, "run_id": "20250812-151309", "idx": 1, "phase": "generate", "status": "start", "message": "株価の擬似データを可視化し、移動平均やボリンジャーバンドを切替", "extra": null}
+{"ts": 1754979358.575232, "run_id": "20250812-151309", "idx": 1, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_151558_0001", "extra": {"lines": 64}}
+{"ts": 1754979358.57664, "run_id": "20250812-151309", "idx": 1, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754979436.134773, "run_id": "20250812-151309", "idx": 1, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_151558_0001/.venv"}}
+{"ts": 1754979436.1361868, "run_id": "20250812-151309", "idx": 1, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754979436.13999, "run_id": "20250812-151309", "idx": 1, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_151558_0001/.venv/bin/python'", "extra": null}
+{"ts": 1754979440.151925, "run_id": "20250812-151309", "idx": 2, "phase": "generate", "status": "start", "message": "株価の擬似データを可視化し、移動平均やボリンジャーバンドを切替", "extra": null}
+{"ts": 1754979637.920917, "run_id": "20250812-151309", "idx": 2, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_152037_0002", "extra": {"lines": 70}}
+{"ts": 1754979637.921708, "run_id": "20250812-151309", "idx": 2, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754979639.9908202, "run_id": "20250812-151309", "idx": 2, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_152037_0002/.venv"}}
+{"ts": 1754979639.99135, "run_id": "20250812-151309", "idx": 2, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754979639.992857, "run_id": "20250812-151309", "idx": 2, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_152037_0002/.venv/bin/python'", "extra": null}
+{"ts": 1754979644.0042381, "run_id": "20250812-151309", "idx": 3, "phase": "generate", "status": "start", "message": "アンケート集計ダッシュボード（擬似CSV生成→集計→可視化）", "extra": null}
+{"ts": 1754979731.662963, "run_id": "20250812-151309", "idx": 3, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_152211_0003", "extra": {"lines": 69}}
+{"ts": 1754979731.664159, "run_id": "20250812-151309", "idx": 3, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754979733.9483972, "run_id": "20250812-151309", "idx": 3, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_152211_0003/.venv"}}
+{"ts": 1754979733.948701, "run_id": "20250812-151309", "idx": 3, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754979733.950188, "run_id": "20250812-151309", "idx": 3, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_152211_0003/.venv/bin/python'", "extra": null}
+{"ts": 1754979737.962093, "run_id": "20250812-151309", "idx": 4, "phase": "generate", "status": "start", "message": "画像サムネ生成ごっこ（PILでサイズ変更・フィルタ）", "extra": null}
+{"ts": 1754979845.4053419, "run_id": "20250812-151309", "idx": 4, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_152405_0004", "extra": {"lines": 87}}
+{"ts": 1754979845.408179, "run_id": "20250812-151309", "idx": 4, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754979847.534314, "run_id": "20250812-151309", "idx": 4, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_152405_0004/.venv"}}
+{"ts": 1754979847.534566, "run_id": "20250812-151309", "idx": 4, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754979847.5360682, "run_id": "20250812-151309", "idx": 4, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_152405_0004/.venv/bin/python'", "extra": null}
+{"ts": 1754979851.559216, "run_id": "20250812-151309", "idx": 5, "phase": "generate", "status": "start", "message": "レコメンドUIのプロトタイプ（ランダム埋め込み＋近傍検索擬似）", "extra": null}
+{"ts": 1754979947.924375, "run_id": "20250812-151309", "idx": 5, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_152547_0005", "extra": {"lines": 73}}
+{"ts": 1754979947.924893, "run_id": "20250812-151309", "idx": 5, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754979949.810312, "run_id": "20250812-151309", "idx": 5, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_152547_0005/.venv"}}
+{"ts": 1754979949.810583, "run_id": "20250812-151309", "idx": 5, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754979949.812068, "run_id": "20250812-151309", "idx": 5, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_152547_0005/.venv/bin/python'", "extra": null}
+{"ts": 1754979953.8316312, "run_id": "20250812-151309", "idx": 6, "phase": "generate", "status": "start", "message": "CSVアップロード→簡易EDA→相関ヒートマップ→軽い前処理", "extra": null}
+{"ts": 1754980062.3423371, "run_id": "20250812-151309", "idx": 6, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_152742_0006", "extra": {"lines": 113}}
+{"ts": 1754980062.343541, "run_id": "20250812-151309", "idx": 6, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754980064.217834, "run_id": "20250812-151309", "idx": 6, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_152742_0006/.venv"}}
+{"ts": 1754980064.218157, "run_id": "20250812-151309", "idx": 6, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754980064.219777, "run_id": "20250812-151309", "idx": 6, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_152742_0006/.venv/bin/python'", "extra": null}
+{"ts": 1754980068.241014, "run_id": "20250812-151309", "idx": 7, "phase": "generate", "status": "start", "message": "CSVアップロード→簡易EDA→相関ヒートマップ→軽い前処理", "extra": null}
+{"ts": 1754980145.4330828, "run_id": "20250812-151309", "idx": 7, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_152905_0007", "extra": {"lines": 99}}
+{"ts": 1754980145.434058, "run_id": "20250812-151309", "idx": 7, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754980147.227953, "run_id": "20250812-151309", "idx": 7, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_152905_0007/.venv"}}
+{"ts": 1754980147.2282171, "run_id": "20250812-151309", "idx": 7, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754980147.2297, "run_id": "20250812-151309", "idx": 7, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_152905_0007/.venv/bin/python'", "extra": null}
+{"ts": 1754980151.250874, "run_id": "20250812-151309", "idx": 8, "phase": "generate", "status": "start", "message": "学習データの特徴量重要度をSHAP風に擬似表示（ダミーモデル）", "extra": null}
+{"ts": 1754980244.262914, "run_id": "20250812-151309", "idx": 8, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_153044_0008", "extra": {"lines": 74}}
+{"ts": 1754980244.2635121, "run_id": "20250812-151309", "idx": 8, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754980246.007224, "run_id": "20250812-151309", "idx": 8, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_153044_0008/.venv"}}
+{"ts": 1754980246.007904, "run_id": "20250812-151309", "idx": 8, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754980246.009585, "run_id": "20250812-151309", "idx": 8, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_153044_0008/.venv/bin/python'", "extra": null}
+{"ts": 1754980250.026939, "run_id": "20250812-151309", "idx": 9, "phase": "generate", "status": "start", "message": "学習データの特徴量重要度をSHAP風に擬似表示（ダミーモデル）", "extra": null}
+{"ts": 1754980331.0930078, "run_id": "20250812-151309", "idx": 9, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_153211_0009", "extra": {"lines": 56}}
+{"ts": 1754980331.093843, "run_id": "20250812-151309", "idx": 9, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754980332.8292649, "run_id": "20250812-151309", "idx": 9, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_153211_0009/.venv"}}
+{"ts": 1754980332.829586, "run_id": "20250812-151309", "idx": 9, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754980332.831125, "run_id": "20250812-151309", "idx": 9, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_153211_0009/.venv/bin/python'", "extra": null}
+{"ts": 1754980336.854999, "run_id": "20250812-151309", "idx": 10, "phase": "generate", "status": "start", "message": "レコメンドUIのプロトタイプ（ランダム埋め込み＋近傍検索擬似）", "extra": null}
+{"ts": 1754980408.0248268, "run_id": "20250812-151309", "idx": 10, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_153328_0010", "extra": {"lines": 64}}
+{"ts": 1754980408.0255392, "run_id": "20250812-151309", "idx": 10, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754980409.716131, "run_id": "20250812-151309", "idx": 10, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_153328_0010/.venv"}}
+{"ts": 1754980409.716352, "run_id": "20250812-151309", "idx": 10, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754980409.717895, "run_id": "20250812-151309", "idx": 10, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_153328_0010/.venv/bin/python'", "extra": null}
+{"ts": 1754980413.744294, "run_id": "20250812-151309", "idx": 11, "phase": "generate", "status": "start", "message": "地理散布（緯度経度を擬似生成）とクラスタリング結果の色分け", "extra": null}
+{"ts": 1754980547.768518, "run_id": "20250812-151309", "idx": 11, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_153547_0011", "extra": {"lines": 104}}
+{"ts": 1754980547.769112, "run_id": "20250812-151309", "idx": 11, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754980549.540986, "run_id": "20250812-151309", "idx": 11, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_153547_0011/.venv"}}
+{"ts": 1754980549.541322, "run_id": "20250812-151309", "idx": 11, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754980549.5433059, "run_id": "20250812-151309", "idx": 11, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_153547_0011/.venv/bin/python'", "extra": null}
+{"ts": 1754980553.5596821, "run_id": "20250812-151309", "idx": 12, "phase": "generate", "status": "start", "message": "アンケート集計ダッシュボード（擬似CSV生成→集計→可視化）", "extra": null}
+{"ts": 1754980688.867892, "run_id": "20250812-151309", "idx": 12, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_153808_0012", "extra": {"lines": 82}}
+{"ts": 1754980688.869146, "run_id": "20250812-151309", "idx": 12, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754980690.708919, "run_id": "20250812-151309", "idx": 12, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_153808_0012/.venv"}}
+{"ts": 1754980690.709279, "run_id": "20250812-151309", "idx": 12, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754980690.711057, "run_id": "20250812-151309", "idx": 12, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_153808_0012/.venv/bin/python'", "extra": null}
+{"ts": 1754980694.72672, "run_id": "20250812-151309", "idx": 13, "phase": "generate", "status": "start", "message": "A/Bテストダッシュボード（ベイズ推定“風”の可視化、擬似データ）", "extra": null}
+{"ts": 1754980779.2440681, "run_id": "20250812-151309", "idx": 13, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_153939_0013", "extra": {"lines": 64}}
+{"ts": 1754980779.245313, "run_id": "20250812-151309", "idx": 13, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754980780.996592, "run_id": "20250812-151309", "idx": 13, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_153939_0013/.venv"}}
+{"ts": 1754980780.996959, "run_id": "20250812-151309", "idx": 13, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754980780.998736, "run_id": "20250812-151309", "idx": 13, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_153939_0013/.venv/bin/python'", "extra": null}
+{"ts": 1754980785.013102, "run_id": "20250812-151309", "idx": 14, "phase": "generate", "status": "start", "message": "学習データの特徴量重要度をSHAP風に擬似表示（ダミーモデル）", "extra": null}
+{"ts": 1754980896.695277, "run_id": "20250812-151309", "idx": 14, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_154136_0014", "extra": {"lines": 65}}
+{"ts": 1754980896.696096, "run_id": "20250812-151309", "idx": 14, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754980898.5117, "run_id": "20250812-151309", "idx": 14, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_154136_0014/.venv"}}
+{"ts": 1754980898.5120041, "run_id": "20250812-151309", "idx": 14, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754980898.5136251, "run_id": "20250812-151309", "idx": 14, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_154136_0014/.venv/bin/python'", "extra": null}
+{"ts": 1754980902.535533, "run_id": "20250812-151309", "idx": 15, "phase": "generate", "status": "start", "message": "株価の擬似データを可視化し、移動平均やボリンジャーバンドを切替", "extra": null}
+{"ts": 1754980998.1776488, "run_id": "20250812-151309", "idx": 15, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_154318_0015", "extra": {"lines": 57}}
+{"ts": 1754980998.178446, "run_id": "20250812-151309", "idx": 15, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754980999.909763, "run_id": "20250812-151309", "idx": 15, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_154318_0015/.venv"}}
+{"ts": 1754980999.910082, "run_id": "20250812-151309", "idx": 15, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754980999.911553, "run_id": "20250812-151309", "idx": 15, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_154318_0015/.venv/bin/python'", "extra": null}
+{"ts": 1754981003.930975, "run_id": "20250812-151309", "idx": 16, "phase": "generate", "status": "start", "message": "学習データの特徴量重要度をSHAP風に擬似表示（ダミーモデル）", "extra": null}
+{"ts": 1754981114.993564, "run_id": "20250812-151309", "idx": 16, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_154514_0016", "extra": {"lines": 73}}
+{"ts": 1754981114.994595, "run_id": "20250812-151309", "idx": 16, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754981116.9712708, "run_id": "20250812-151309", "idx": 16, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_154514_0016/.venv"}}
+{"ts": 1754981116.971912, "run_id": "20250812-151309", "idx": 16, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754981116.97366, "run_id": "20250812-151309", "idx": 16, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_154514_0016/.venv/bin/python'", "extra": null}
+{"ts": 1754981120.99516, "run_id": "20250812-151309", "idx": 17, "phase": "generate", "status": "start", "message": "株価の擬似データを可視化し、移動平均やボリンジャーバンドを切替", "extra": null}
+{"ts": 1754981242.700502, "run_id": "20250812-151309", "idx": 17, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_154722_0017", "extra": {"lines": 92}}
+{"ts": 1754981242.7010088, "run_id": "20250812-151309", "idx": 17, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754981244.7477918, "run_id": "20250812-151309", "idx": 17, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_154722_0017/.venv"}}
+{"ts": 1754981244.7481291, "run_id": "20250812-151309", "idx": 17, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754981244.749909, "run_id": "20250812-151309", "idx": 17, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_154722_0017/.venv/bin/python'", "extra": null}
+{"ts": 1754981248.770499, "run_id": "20250812-151309", "idx": 18, "phase": "generate", "status": "start", "message": "学習データの特徴量重要度をSHAP風に擬似表示（ダミーモデル）", "extra": null}
+{"ts": 1754981355.9749691, "run_id": "20250812-151309", "idx": 18, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_154915_0018", "extra": {"lines": 80}}
+{"ts": 1754981355.9758499, "run_id": "20250812-151309", "idx": 18, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754981357.916808, "run_id": "20250812-151309", "idx": 18, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_154915_0018/.venv"}}
+{"ts": 1754981357.9171772, "run_id": "20250812-151309", "idx": 18, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754981357.919302, "run_id": "20250812-151309", "idx": 18, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_154915_0018/.venv/bin/python'", "extra": null}
+{"ts": 1754981361.933206, "run_id": "20250812-151309", "idx": 19, "phase": "generate", "status": "start", "message": "地理散布（緯度経度を擬似生成）とクラスタリング結果の色分け", "extra": null}
+{"ts": 1754981460.450295, "run_id": "20250812-151309", "idx": 19, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_155100_0019", "extra": {"lines": 67}}
+{"ts": 1754981460.451068, "run_id": "20250812-151309", "idx": 19, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754981462.157164, "run_id": "20250812-151309", "idx": 19, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_155100_0019/.venv"}}
+{"ts": 1754981462.157404, "run_id": "20250812-151309", "idx": 19, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754981462.158918, "run_id": "20250812-151309", "idx": 19, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_155100_0019/.venv/bin/python'", "extra": null}
+{"ts": 1754981466.180256, "run_id": "20250812-151309", "idx": 20, "phase": "generate", "status": "start", "message": "学習データの特徴量重要度をSHAP風に擬似表示（ダミーモデル）", "extra": null}
+{"ts": 1754981702.374033, "run_id": "20250812-151309", "idx": 20, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_155502_0020", "extra": {"lines": 203}}
+{"ts": 1754981702.374799, "run_id": "20250812-151309", "idx": 20, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754981704.0676649, "run_id": "20250812-151309", "idx": 20, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_155502_0020/.venv"}}
+{"ts": 1754981704.067882, "run_id": "20250812-151309", "idx": 20, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754981704.069291, "run_id": "20250812-151309", "idx": 20, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_155502_0020/.venv/bin/python'", "extra": null}
+{"ts": 1754981708.086058, "run_id": "20250812-151309", "idx": 21, "phase": "generate", "status": "start", "message": "画像サムネ生成ごっこ（PILでサイズ変更・フィルタ）", "extra": null}
+{"ts": 1754982099.3586822, "run_id": "20250812-151309", "idx": 21, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_160139_0021", "extra": {"lines": 168}}
+{"ts": 1754982099.359641, "run_id": "20250812-151309", "idx": 21, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754982101.223208, "run_id": "20250812-151309", "idx": 21, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_160139_0021/.venv"}}
+{"ts": 1754982101.2234812, "run_id": "20250812-151309", "idx": 21, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754982101.2251258, "run_id": "20250812-151309", "idx": 21, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_160139_0021/.venv/bin/python'", "extra": null}
+{"ts": 1754982105.248258, "run_id": "20250812-151309", "idx": 22, "phase": "generate", "status": "start", "message": "ToDo＋ポモドーロタイマー＋進捗ガント風チャート（全てローカル状態）", "extra": null}
+{"ts": 1754982249.2098649, "run_id": "20250812-151309", "idx": 22, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_160409_0022", "extra": {"lines": 101}}
+{"ts": 1754982249.2104561, "run_id": "20250812-151309", "idx": 22, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754982250.914986, "run_id": "20250812-151309", "idx": 22, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_160409_0022/.venv"}}
+{"ts": 1754982250.915204, "run_id": "20250812-151309", "idx": 22, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754982250.916641, "run_id": "20250812-151309", "idx": 22, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_160409_0022/.venv/bin/python'", "extra": null}
+{"ts": 1754982254.935862, "run_id": "20250812-151309", "idx": 23, "phase": "generate", "status": "start", "message": "株価の擬似データを可視化し、移動平均やボリンジャーバンドを切替", "extra": null}
+{"ts": 1754982347.640556, "run_id": "20250812-151309", "idx": 23, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_160547_0023", "extra": {"lines": 70}}
+{"ts": 1754982347.641741, "run_id": "20250812-151309", "idx": 23, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754982349.50065, "run_id": "20250812-151309", "idx": 23, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_160547_0023/.venv"}}
+{"ts": 1754982349.500949, "run_id": "20250812-151309", "idx": 23, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754982349.502569, "run_id": "20250812-151309", "idx": 23, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_160547_0023/.venv/bin/python'", "extra": null}
+{"ts": 1754982353.525582, "run_id": "20250812-151309", "idx": 24, "phase": "generate", "status": "start", "message": "テキスト要約“風”ツール（ランダム要約＋キーワード抽出のフェイク）", "extra": null}
+{"ts": 1754982493.175851, "run_id": "20250812-151309", "idx": 24, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_160813_0024", "extra": {"lines": 108}}
+{"ts": 1754982493.176469, "run_id": "20250812-151309", "idx": 24, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754982494.936918, "run_id": "20250812-151309", "idx": 24, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_160813_0024/.venv"}}
+{"ts": 1754982494.937196, "run_id": "20250812-151309", "idx": 24, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754982494.9388149, "run_id": "20250812-151309", "idx": 24, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_160813_0024/.venv/bin/python'", "extra": null}
+{"ts": 1754982498.961246, "run_id": "20250812-151309", "idx": 25, "phase": "generate", "status": "start", "message": "アンケート集計ダッシュボード（擬似CSV生成→集計→可視化）", "extra": null}
+{"ts": 1754982579.3819578, "run_id": "20250812-151309", "idx": 25, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_160939_0025", "extra": {"lines": 57}}
+{"ts": 1754982579.3829749, "run_id": "20250812-151309", "idx": 25, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754982581.095405, "run_id": "20250812-151309", "idx": 25, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_160939_0025/.venv"}}
+{"ts": 1754982581.095667, "run_id": "20250812-151309", "idx": 25, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754982581.097496, "run_id": "20250812-151309", "idx": 25, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_160939_0025/.venv/bin/python'", "extra": null}
+{"ts": 1754982585.1109262, "run_id": "20250812-151309", "idx": 26, "phase": "generate", "status": "start", "message": "画像サムネ生成ごっこ（PILでサイズ変更・フィルタ）", "extra": null}
+{"ts": 1754982693.51448, "run_id": "20250812-151309", "idx": 26, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_161133_0026", "extra": {"lines": 72}}
+{"ts": 1754982693.515577, "run_id": "20250812-151309", "idx": 26, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754982695.2229161, "run_id": "20250812-151309", "idx": 26, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_161133_0026/.venv"}}
+{"ts": 1754982695.2231638, "run_id": "20250812-151309", "idx": 26, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754982695.2247958, "run_id": "20250812-151309", "idx": 26, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_161133_0026/.venv/bin/python'", "extra": null}
+{"ts": 1754982699.245993, "run_id": "20250812-151309", "idx": 27, "phase": "generate", "status": "start", "message": "CSVアップロード→簡易EDA→相関ヒートマップ→軽い前処理", "extra": null}
+{"ts": 1754982826.842421, "run_id": "20250812-151309", "idx": 27, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_161346_0027", "extra": {"lines": 95}}
+{"ts": 1754982826.843234, "run_id": "20250812-151309", "idx": 27, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754982828.627295, "run_id": "20250812-151309", "idx": 27, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_161346_0027/.venv"}}
+{"ts": 1754982828.627606, "run_id": "20250812-151309", "idx": 27, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754982828.6292439, "run_id": "20250812-151309", "idx": 27, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_161346_0027/.venv/bin/python'", "extra": null}
+{"ts": 1754982832.645073, "run_id": "20250812-151309", "idx": 28, "phase": "generate", "status": "start", "message": "画像サムネ生成ごっこ（PILでサイズ変更・フィルタ）", "extra": null}
+{"ts": 1754985877.019917, "run_id": "20250812-151309", "idx": 28, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_170437_0028", "extra": {"lines": 93}}
+{"ts": 1754985877.020459, "run_id": "20250812-151309", "idx": 28, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754986814.521493, "run_id": "20250812-151309", "idx": 28, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_170437_0028/.venv"}}
+{"ts": 1754986814.523187, "run_id": "20250812-151309", "idx": 28, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754986814.5325062, "run_id": "20250812-151309", "idx": 28, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_170437_0028/.venv/bin/python'", "extra": null}
+{"ts": 1754986818.54774, "run_id": "20250812-151309", "idx": 29, "phase": "generate", "status": "start", "message": "テキスト要約“風”ツール（ランダム要約＋キーワード抽出のフェイク）", "extra": null}
+{"ts": 1754987099.494559, "run_id": "20250812-151309", "idx": 29, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_172459_0029", "extra": {"lines": 76}}
+{"ts": 1754987099.4953249, "run_id": "20250812-151309", "idx": 29, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754987101.45552, "run_id": "20250812-151309", "idx": 29, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_172459_0029/.venv"}}
+{"ts": 1754987101.4562502, "run_id": "20250812-151309", "idx": 29, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754987101.4584792, "run_id": "20250812-151309", "idx": 29, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_172459_0029/.venv/bin/python'", "extra": null}
+{"ts": 1754987105.4692879, "run_id": "20250812-151309", "idx": 30, "phase": "generate", "status": "start", "message": "地理散布（緯度経度を擬似生成）とクラスタリング結果の色分け", "extra": null}
+{"ts": 1754987201.4327412, "run_id": "20250812-151309", "idx": 30, "phase": "write", "status": "ok", "message": "gen_apps/app_20250812_172641_0030", "extra": {"lines": 109}}
+{"ts": 1754987201.435433, "run_id": "20250812-151309", "idx": 30, "phase": "setup", "status": "start", "message": "", "extra": null}
+{"ts": 1754987204.0255911, "run_id": "20250812-151309", "idx": 30, "phase": "setup", "status": "ok", "message": "", "extra": {"venv": "gen_apps/app_20250812_172641_0030/.venv"}}
+{"ts": 1754987204.0259871, "run_id": "20250812-151309", "idx": 30, "phase": "smoke", "status": "start", "message": "", "extra": null}
+{"ts": 1754987204.028001, "run_id": "20250812-151309", "idx": 30, "phase": "fatal", "status": "error", "message": "[Errno 2] No such file or directory: 'gen_apps/app_20250812_172641_0030/.venv/bin/python'", "extra": null}
+{"ts": 1754987208.043552, "run_id": "20250812-151309", "idx": 31, "phase": "generate", "status": "start", "message": "画像サムネ生成ごっこ（PILでサイズ変更・フィルタ）", "extra": null}

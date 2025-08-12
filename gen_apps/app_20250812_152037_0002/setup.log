@@ -1,0 +1,5 @@
+Using Python 3.13.5 environment at: /Users/yut0takagi/.local/share/virtualenvs/app_list-gsZIkgBe
+Resolved 4 packages in 12ms
+Audited 4 packages in 0.53ms
+
+$ uv pip sync requirements.txt

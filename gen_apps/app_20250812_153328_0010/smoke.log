@@ -1,0 +1,8 @@
+
+$ gen_apps/app_20250812_153328_0010/.venv/bin/python - <<'PY'
+import importlib;
+for m in ['streamlit','pandas','numpy','plotly']:
+    importlib.import_module(m)
+print('OK-imports')
+
+PY
